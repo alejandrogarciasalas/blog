@@ -18,7 +18,7 @@
   - /Users/alejandro/Sites/Personal-sites/blog/_includes/footer.html
   - /Users/alejandro/Sites/Personal-sites/blog/_layouts/default.html
 /Users/alejandro/Sites/Personal-sites/blog/_posts/2014-06-10-see-pixyll-in-action.md:
-  mtime: 2015-07-20 00:22:59.000000000 -05:00
+  mtime: 2015-07-20 01:47:06.000000000 -05:00
   deps:
   - /Users/alejandro/Sites/Personal-sites/blog/_layouts/post.html
   - /Users/alejandro/Sites/Personal-sites/blog/_includes/head.html
@@ -53,7 +53,7 @@
   - /Users/alejandro/Sites/Personal-sites/blog/_includes/footer.html
   - /Users/alejandro/Sites/Personal-sites/blog/_layouts/center.html
 /Users/alejandro/Sites/Personal-sites/blog/about.md:
-  mtime: 2015-07-20 00:22:59.000000000 -05:00
+  mtime: 2015-07-20 02:00:07.000000000 -05:00
   deps:
   - /Users/alejandro/Sites/Personal-sites/blog/_layouts/page.html
   - /Users/alejandro/Sites/Personal-sites/blog/_includes/head.html
@@ -74,7 +74,7 @@
   mtime: 2015-07-20 00:22:59.000000000 -05:00
   deps: []
 /Users/alejandro/Sites/Personal-sites/blog/index.html:
-  mtime: 2015-07-20 00:22:59.000000000 -05:00
+  mtime: 2015-07-20 02:17:16.000000000 -05:00
   deps:
   - /Users/alejandro/Sites/Personal-sites/blog/_includes/pagination.html
   - /Users/alejandro/Sites/Personal-sites/blog/_includes/head.html
@@ -170,7 +170,7 @@
   mtime: 2015-07-20 00:22:59.000000000 -05:00
   deps: []
 /Users/alejandro/Sites/Personal-sites/blog/_includes/footer.html:
-  mtime: 2015-07-20 00:56:31.000000000 -05:00
+  mtime: 2015-07-20 00:57:34.000000000 -05:00
   deps: []
 /Users/alejandro/Sites/Personal-sites/blog/_layouts/default.html:
   mtime: 2015-07-20 00:22:59.000000000 -05:00

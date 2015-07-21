@@ -14,12 +14,12 @@ of a paragraph. The _same_ goes for italics and __bold__ elements. Even the the 
 works if <del>for some reason you need to update your post</del>. For consistency's sake,
 <ins>The same goes for insertions</ins>, of course.
 
-### Code, with syntax highlighting
+## Code, with syntax highlighting
 
 Here's an example of some ruby code with line anchors.
 
 {% highlight ruby lineanchors %}
-# The most awesome of classes
+### The most awesome of classes
 class Awesome < ActiveRecord::Base
   include EvenMoreAwesome
 
@@ -48,12 +48,12 @@ Here's some CSS:
 }
 {% endhighlight %}
 
-# Headings!
+## Headings!
 
 They're responsive, and well-proportioned (in `padding`, `line-height`, `margin`, and `font-size`).
 They also heavily rely on the awesome utility, [BASSCSS](http://www.basscss.com/).
 
-##### They draw the perfect amount of attention
+### They draw the perfect amount of attention
 
 This allows your content to have the proper informational and contextual hierarchy. Yay.
 

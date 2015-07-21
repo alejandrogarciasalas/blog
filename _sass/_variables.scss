@@ -1,20 +1,21 @@
 // Typography
 $base-font-size: 14px !default;
 $bold-font-weight: bold !default;
-$font-family: 'LucidaRoman', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
 $line-height: 1.5 !default;
 $heading-font-family: 'Circular Std', 'Helvetica Neue', Helvetica, sans-serif !default;
+$sub-heading-font-family: 'Museo Sans', 'Circular Std', 'Helvetica Neue', Helvetica, sans-serif !default;
 $heading-font-weight: 900 !default;
 $heading-line-height: 1.25 !default;
 $monospace-font-family: 'DejaVu Sans Mono', Consolas, monospace !default;
 $h1: 2rem !default;
-$h2: 1.5rem !default;
-$h3: 1.25rem !default;
-$h4: 1rem !default;
-$h5: .875rem !default;
-$h6: .75rem !default;
-$h00: 4rem !default;
-$h0: 3rem !default;
+$h2: 1.6rem !default;
+$h3: 1.35rem !default;
+$h4: 1.1rem !default;
+$h5: .975rem !default;
+$h6: .85rem !default;
+$h00: 4.1rem !default;
+$h0: 3.1rem !default;
 $h00-responsive: 8vw !default;
 $h0-responsive: 6vw !default;
 $h1-responsive: 4vw !default;
@@ -24,7 +25,7 @@ $h1-responsive-max: 3.84rem !default;
 $abbr-border-bottom: 1px black dotted;
 
 // Page width
-$measure-width: 42rem !default;
+$measure-width: 35rem !default;
 
 // Viewport widths
 $viewport-small: 32rem;

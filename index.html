@@ -8,7 +8,7 @@ layout: default
     {% for post in paginator.posts %}
       <div class="post py3">
         <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h2 class="h1 post-title">{{ post.title }}</h3></a>
         <p class="post-summary">
           {% if post.summary %}
             {{ post.summary }}
@@ -16,6 +16,7 @@ layout: default
             {{ post.excerpt }}
           {% endif %}
         </p>
+        <a class="post-read-more" href="">Read more</a>
       </div>
     {% endfor %}
   </div>

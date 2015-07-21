@@ -46,3 +46,20 @@
 .related-post-title {
   border-bottom: thin solid #f3f3f3;
 }
+
+// Post-summary
+
+.post-summary{
+  font-size: $h4;
+  font-weight: 300;
+  color: rgba(0,0,0,0.44);
+  font-family: $sub-heading-font-family;
+}
+
+// Read More
+
+.post-read-more{
+  font-size: $h6;
+  font-weight: 300;
+  font-family: $sub-heading-font-family;
+}

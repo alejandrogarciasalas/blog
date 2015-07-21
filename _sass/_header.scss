@@ -10,7 +10,8 @@
 }
 
 .site-header .site-title {
-  font-size: $h2;
+  font-size: $h1;
+  font-family: $heading-font-family;
 }
 
 .site-nav {
@@ -19,6 +20,8 @@
 
 .site-header nav a {
   color: #666;
+  font-size: $h4;
+  font-family: $sub-heading-font-family;
 }
 
 .site-header nav a:hover,
