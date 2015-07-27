@@ -4,7 +4,7 @@ email:       garciasalasalejandro@gmail.com
 author:      Alejandro
 description: "Alejandro's thoughts in a blog"
 baseurl:     ""
-url:         "localhost:4000"
+url:         ""
 
 # Google analytics
 google_analytics:
