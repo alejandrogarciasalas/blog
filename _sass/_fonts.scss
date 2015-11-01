@@ -79,3 +79,16 @@
 	font-weight: 900;
 	font-style: italic;
 }
+
+
+/* Tiempos text */
+
+@font-face {
+	font-family: 'Tiempos Text';
+	src: url('../fonts/tiempos-text/Tiempos-text.eot');
+	src: url('../fonts/tiempos-text/Tiempos-text.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/tiempos-text/Tiempos-text.woff') format('woff'),
+		url('../fonts/tiempos-text/Tiempos-text.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

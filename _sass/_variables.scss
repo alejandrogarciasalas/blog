@@ -1,7 +1,7 @@
 // Typography
 $base-font-size: 14px !default;
 $bold-font-weight: bold !default;
-$font-family: 'Leitura News', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$font-family: 'Times text', 'PT Serif', Georgia, 'Times New Roman', serif !default;
 $line-height: 1.5 !default;
 $heading-font-family: 'Circular', 'Helvetica Neue', Helvetica, sans-serif !default;
 $sub-heading-font-family: 'Circular Book', 'Helvetica Neue', Helvetica, sans-serif !default;
@@ -58,7 +58,7 @@ $darken-4: rgba(#000,.5) !default;
 
 // Links
 $link-color: $blue;
-$link-hover-color: darken($blue, 40%);
+$link-hover-color: darken($blue, 14%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';

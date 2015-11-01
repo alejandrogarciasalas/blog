@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Hello big data
-date:       2014-06-10 12:31:19
+title:      Hello World
+date:       2015-10-30 12:31:19
 summary:    See what the different elements looks like. Your markdown has never looked better. I promise.
-categories: jekyll pixyll
+categories: test
 ---
 
 There is a significant amount of subtle, yet precisely calibrated, styling to ensure
