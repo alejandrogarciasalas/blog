@@ -3,8 +3,8 @@ title:       Alejandro García Salas' blog
 email:       garciasalasalejandro@gmail.com
 author:      Alejandro
 description: "Alejandro's thoughts in a blog"
-baseurl:     "/blog"
-url:         "http://alejandrogarciasalas.me"
+baseurl:     ""
+url:         ""
 
 # Google analytics
 google_analytics:
