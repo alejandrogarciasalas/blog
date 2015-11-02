@@ -6,6 +6,8 @@ summary:    One of my college application essays
 categories: archive
 ---
 
+*Note: This essay was written as part as one of many essays I wrote for the college application process.*
+
 At the age of 5 I realized that what most people called "intelligence" was nothing more than curiosity unleashed. That is why the two best skills I've ever acquired are learning how to turn on a computer and "how to Google".
 
 I was in kindergarten when I got my first computer. Though initially I had to share it with my older sister, after a few days it practically became mine. As I engrossed myself in exploring the educational games my dad had installed on it, staring at a flashy screen became my childhood hobby.
@@ -36,7 +38,7 @@ I simply fell in love with that sound. Unlike before there was no limit to the a
 
 "I am fine just let me finish this level and I'll go eat!"
 
-- "Just pause the game"
+-"Just pause the game"
 
 "You can't pause an online game!" I told her irritably while I navigated the virtual world of Kalimdor.
 
