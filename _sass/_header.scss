@@ -12,7 +12,11 @@
   font-size: $h2;
   font-weight: 600;
   font-family: $heading-font-family;
+  &:hover{
+    color: black;
+  }
 }
+
 
 .site-nav {
   margin-top: $space-2;
