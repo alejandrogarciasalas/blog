@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      How I met Steve Wozniak because of a tweet
-date:       2015-10-30 12:31:19
-summary:    One of my admission essays
+title:      How I met Steve Wozniak by just asking
+date:       2015-11-1 12:31:19
+summary:    One of my college application essay
 categories: archive
 ---
 
