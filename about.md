@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About this blog
 permalink: /about/
 ---
@@ -7,7 +7,9 @@ permalink: /about/
 These are Alejandro García Salas' ([that's me](http://alejandrogarciasalas.me)) opinions, raw thoughts, and random rambling in a web-log (a [blog](https://en.wikipedia.org/wiki/Blog)!).
 
 ### Who is Alejandro?
-Even though dissecting someone's identity into bullet points can be a short-sighted task, it can be useful for painting a general image of someone's character. Personally I like to describe myself as a:
+"I am a T-shaped fullstack hacker with a passion for design, education and creative entrepreneurship."
+
+<!-- Even though dissecting someone's identity into bullet points can be a short-sighted task, it can be useful for painting a general image of someone's character. Personally I like to describe myself as a:
 <blockquote>
 "T-shaped fullstack hacker with a passion for design, education and creative entrepreneurship."
 </blockquote>
@@ -83,3 +85,4 @@ Up to the date I've worked doing UI/UX here, made some graphics here and there, 
 
 
 
+ -->
