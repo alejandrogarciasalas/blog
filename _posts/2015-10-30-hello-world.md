@@ -2,12 +2,12 @@
 layout:     post
 title:      Hello World
 date:       2015-10-30 12:31:19
-summary:    See what the different elements looks like. Your markdown has never looked better. I promise.
+summary:    See what the different elements looks like. This is just a test post.
 categories: test
 ---
 
 There is a significant amount of subtle, yet precisely calibrated, styling to ensure
-that your content is emphasized while still looking aesthetically pleasing.
+that content is emphasized while still looking aesthetically pleasing.
 
 All links are easy to [locate and discern](#), yet don't detract from the harmony
 of a paragraph. The _same_ goes for italics and __bold__ elements. Even the the strikeout
@@ -86,9 +86,6 @@ You can use the markdown quote syntax, `>` for simple quotes.
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis porta mauris.
 
-However, you need to inject html if you'd like a citation footer. I will be working on a way to
-hopefully sidestep this inconvenience.
-
 <blockquote>
   <p>
     Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
@@ -96,9 +93,5 @@ hopefully sidestep this inconvenience.
   <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
 </blockquote>
 
-### There's more being added all the time
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to request,
-or add, features.
-
-Happy writing.
+This is how I write.
