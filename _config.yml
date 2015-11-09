@@ -5,19 +5,21 @@ author:      Alejandro
 description: "Alejandro's thoughts in a blog"
 baseurl:     "/blog"
 url:         "alejandrogarciasalas.me"
+# baseurl:     ""
+# url:         ""
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
-show_related_posts: false
-show_post_footers:  false
-show_social_icons:  false
+animated:           False
+show_related_posts: False
+show_post_footers:  False
+show_social_icons:  False
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: alejandrogarciasalas
 
 # Social icons
 github_username:
@@ -32,18 +34,18 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: True
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
+share_facebook: True
+share_twitter: True
+share_googleplus: False
+share_linkedin: False
+share_digg: False
+share_tumblr: False
+share_reddit: True
+share_stumbleupon: False
+share_hackernews: True
 
 # Build settings
 markdown:     kramdown
