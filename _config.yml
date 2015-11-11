@@ -37,15 +37,15 @@ flattr_button:
 show_sharing_icons: False
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: True
-share_twitter: True
+share_facebook: False
+share_twitter: False
 share_googleplus: False
 share_linkedin: False
 share_digg: False
 share_tumblr: False
-share_reddit: True
+share_reddit: False
 share_stumbleupon: False
-share_hackernews: True
+share_hackernews: False
 
 # Build settings
 markdown:     kramdown
