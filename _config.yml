@@ -12,7 +12,7 @@ url:         "alejandrogarciasalas.me"
 google_analytics:
 
 # Optional features
-animated:           True
+animated:           False
 show_related_posts: False
 show_post_footers:  False
 show_social_icons:  False
