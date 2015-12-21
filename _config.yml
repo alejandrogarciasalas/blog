@@ -9,7 +9,7 @@ url:         "alejandrogarciasalas.me"
 # url:         ""
 
 # Google analytics
-google_analytics:
+google_analytics: True
 
 # Optional features
 animated:           False
