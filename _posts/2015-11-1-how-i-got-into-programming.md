@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Personal Essay
+title:      How I got into Programming
 date:       2015-11-1 12:31:19
 summary:    One of my college application essays
 categories: archive
 ---
 
-*Note: This essay was written as part as one of many essays I wrote for the college application process.*
+*Note: This essay was written as one of many essays I wrote for the college application process.*
 
 At the age of 5 I realized that what most people called "intelligence" was nothing more than curiosity unleashed. That is why the two best skills I've ever acquired are learning how to turn on a computer and "how to Google".
 
