@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      How I met Steve Wozniak because of a tweet
+title:      How I used Twitter to meet Steve Wozniak
 date:       2015-11-1 12:31:19
-summary:    One of my college application essays
+summary:    He tweeted I hustled.
 categories: archive
 ---
 
-*Note: This essay was written as part as one of many essays I wrote for the college application process.*
+*Note: This essay was written as part as one of many essays I wrote for the college application process. I spent quite a bit of time writing these so I decided to make them public.*
 
 His last tweet was: "1314. Decent. (@Swissôtel_Lima)"
 
