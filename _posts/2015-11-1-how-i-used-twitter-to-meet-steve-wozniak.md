@@ -6,7 +6,7 @@ summary:    He tweeted I hustled.
 categories: archive
 ---
 
-*Note: This essay was written as part as one of many essays I wrote for the college application process. I spent quite a bit of time writing these so I decided to make them public.*
+*Note: This essay was written as part as one of many essays I wrote for the college application process. I spent quite a bit of time writing these essays so I decided to make them public.*
 
 His last tweet was: "1314. Decent. (@Swissôtel_Lima)"
 
