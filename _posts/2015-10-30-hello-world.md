@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hello World
-date:       2015-10-30 12:31:19
+date:       2015-10-30
 summary:    See what the different elements looks like. This is just a test post.
 categories: test
 ---

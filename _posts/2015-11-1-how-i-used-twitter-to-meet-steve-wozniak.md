@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      How I used Twitter to meet Steve Wozniak
-date:       2015-11-1 12:31:19
+date:       2015-11-1
 summary:    He tweeted I hustled.
 categories: archive
 ---

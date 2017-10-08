@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      How I got into Programming
-date:       2015-11-1 12:31:19
+date:       2015-11-1
 summary:    How I used the Internet to feed my curiosity.
 categories: archive
 ---
