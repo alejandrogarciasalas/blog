@@ -6,6 +6,8 @@ summary:    See what the different elements looks like. This is just a test post
 categories: test
 ---
 
+This site's code is based on [Pixyll](https://github.com/johnotander/pixyll) made by [John Otander](https://github.com/johnotander) using [Jekyll](http://jekyllrb.com/). I left this "Hello World" post in here as reference:
+
 There is a significant amount of subtle, yet precisely calibrated, styling to ensure
 that content is emphasized while still looking aesthetically pleasing.
 
