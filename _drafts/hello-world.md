@@ -1,15 +1,11 @@
 ---
 layout:     post
 title:      Hello World
-date:       2015-10-30
 summary:    See what the different elements looks like. This is just a test post.
-categories: test
+categories: about
 ---
 
-This site's code is based on [Pixyll](https://github.com/johnotander/pixyll) made by [John Otander](https://github.com/johnotander) using [Jekyll](http://jekyllrb.com/). I left this "Hello World" post in here as reference:
-
-There is a significant amount of subtle, yet precisely calibrated, styling to ensure
-that content is emphasized while still looking aesthetically pleasing.
+This site's code is based on [Pixyll](https://github.com/johnotander/pixyll) made by [John Otander](https://github.com/johnotander) using [Jekyll](http://jekyllrb.com/). I left this "Hello World" post in here as reference, feel free to ignore it.
 
 All links are easy to [locate and discern](#), yet don't detract from the harmony
 of a paragraph. The _same_ goes for italics and __bold__ elements. Even the the strikeout
