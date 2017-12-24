@@ -8,7 +8,7 @@ These are Alejandro García Salas' ([that's me](http://alejandro.pe)) opinions, 
 ## FAQ
 
 ### Who is Alejandro?
-[That's me!](http://alejandrogarciasalas.me)
+[That's me!](http://alejandro.pe)
 
 ### What is a "weblog"?
 I am glad you asked! Fun fact, the word "blog" is a truncation of the world "weblog" i.e. a log on the web!
