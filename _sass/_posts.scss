@@ -1,3 +1,6 @@
+.post-header {
+  color: black;
+}
 
 .posts {
   margin: 0;
@@ -17,7 +20,7 @@
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
-  color: black;
+  color: $dark-gray;
   &:hover{
     color: black;
   }

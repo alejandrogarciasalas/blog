@@ -8,7 +8,7 @@ abbr {
 }
 
 p {
-  color: rgba(0,0,0,.84);
+  color: $dark-gray;
   line-height: 1.5;
   font-size: 1rem;
 }
@@ -21,7 +21,7 @@ small,
 // Lists
 ul li,
 ol li{
-  color: rgba(0,0,0,.84);
+  color: $darker-gray;
   font-size: 1rem;
 }
 
