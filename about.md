@@ -3,7 +3,7 @@ layout: page
 title:	About this weblog
 permalink: /about/
 ---
-These are Alejandro García Salas' ([that's me](http://alejandro.pe)) opinions, raw thoughts, and random rambling in a weblog. I created this weblog mostly for myself. I use this weblog to keep track of my thoughts and ideas, as a tool for thinking (by writing), and to practice my writing skills.
+These are Alejandro García Salas' ([that's me](http://alejandro.pe)) opinions, raw thoughts, and random rambling in a weblog. I created this weblog mostly for myself. I use this weblog to keep track of my thoughts and ideas, to practice my writing skills and as a tool for thinking (by writing).
 
 ## FAQ
 
